@@ -17,5 +17,3 @@ Autumn 2020 - Aalborg University, Copenhagen
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juanalonso/DDSP-singing-experiments/blob/main/tools/plot_param_space.ipynb)
 `plot_param_space.ipynb`: Helper notebook to plot the total loss from models trained on the eva model with different spectral parameters.
 
-
-https://github.com/juanalonso/DDSP-singing-experiments/blob/main/01_train.ipynb
